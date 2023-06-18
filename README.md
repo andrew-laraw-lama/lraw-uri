@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lraw-uri
-- 👀 I’m interested in Human-Computer Interaction (HCI) + High Performance Computing (HPC). 
-- 🌱 I’m currently doing Flutter regarding accessibility for people with Intellectual and Developmental Disabilities (IDD).
-- 💞️ I’m looking to collaborate on Flutter projects.
+- 👀 I’m interested in High Performance Computing (HPC). 
+- 🌱 
+- 💞️ 
 - 📫 You can reach me by email - lraw0819@uri.edu
 
 <!---
